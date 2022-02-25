@@ -13,7 +13,7 @@ on:
     
   push:
     branches:
-      - K5
+      - k5
     
   #schedule:
   #  - cron: 0 8 * * 5
